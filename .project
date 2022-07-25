@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ATM Simulator</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ASimulatorSystem/icons/atm.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Mayank/Desktop/JAVA/Projects/ATM Simulator/src/ASimulatorSystem/icons/atm.jpg</location>
+		</link>
+		<link>
+			<name>src/ASimulatorSystem/icons/logo.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Mayank/Desktop/JAVA/Projects/ATM Simulator/src/ASimulatorSystem/icons/logo.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
